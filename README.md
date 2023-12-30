@@ -6,9 +6,3 @@
 
 ### 第二节 字母表与发音
 [![Tenenja语教程-初稿-11-字母表与发音前言](https://github.com/fumiama/tenenja/assets/41315874/b8d24cac-a821-46b0-9262-929f124233d4)](字母读音.md)
-
-
-## 语音
-
-- [音变规律](音变规律.md)
-
